@@ -171,6 +171,25 @@ ul li:last-child {
   background-size: cover;
 }
 
+.logo li {
+  height: 10vw;
+  width: 100%;
+  margin-right: 5vw;
+}
+
+.logo1 {
+  background: url("../img/LumoLogo1.svg") no-repeat top left;
+  background-size: contain;
+}
+.logo2 {
+  background: url("../img/LumoLogo2.svg") no-repeat top left;
+  background-size: contain;
+}
+.logo3 {
+  background: url("../img/LumoLogo3.svg") no-repeat top left;
+  background-size: contain;
+}
+
 .images ul {
   flex-direction: column;
   text-align: center;
